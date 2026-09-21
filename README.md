@@ -1,58 +1,142 @@
-# Amazon Sales Analysis
+# Data Analytics Resume Projects
 
-## Project Overview
+Welcome to my Data Analytics portfolio repository.
 
-This project analyzes a real world Amazon sales dataset using Python and Power BI to understand revenue performance, product demand, pricing, discounts, customer preferences, and regional sales behavior.
+This repository contains my hands on data analysis projects created to demonstrate my ability to work with real world datasets, clean and preprocess data, perform exploratory analysis, solve business problems, and communicate insights through interactive dashboards and data visualizations.
 
-The project was approached from a business perspective, focusing on practical questions that can help understand product performance, customer behavior, and revenue opportunities.
+My approach to these projects focuses on going beyond simply creating charts. I start by understanding the business problem, prepare and analyze the data, identify meaningful patterns, and translate the findings into insights that can support data driven decision making.
 
-## Objective
+## Projects
 
-The main objective was to transform raw sales data into meaningful business insights that can support decisions related to:
+### 1. Amazon Sales Analysis
 
-- Revenue performance
+**Tools:** Python, Pandas, Power BI
+
+An end to end Amazon sales analysis focused on understanding revenue performance, product demand, pricing, discounts, customer preferences, product ratings, and regional sales behavior.
+
+**Key areas analyzed:**
+
+- Revenue trends and performance
 - Product category performance
-- Pricing and discounts
-- Customer preferences
-- Regional performance
-- Payment method preferences
-- Product ratings and customer engagement
+- Quantity sold
+- Pricing and discount analysis
+- Customer ratings and review activity
+- Regional revenue performance
+- Regional payment preferences
+- Product performance and customer engagement
 
-## Data Preparation
+**Business focus:**
 
-The dataset was cleaned and preprocessed using Python and Pandas before being analyzed in Power BI.
+The analysis explores business questions around revenue growth, product performance, pricing strategy, customer preferences, regional performance, and payment behavior.
 
-### Workflow
+---
 
-**Raw Data → Data Cleaning → Preprocessing → Exploratory Data Analysis → Power BI Visualization → Business Analysis → Insights**
+### 2. Blinkit Data Analysis
 
-## Business Questions
+**Tools:** Python, Pandas, Power BI
 
-The analysis addressed 12 business focused questions, including:
+An end to end Blinkit business analysis project using multiple datasets covering customers, orders, delivery performance, customer feedback, products, inventory, and marketing.
 
-1. How is total revenue changing over time?
-2. Which periods generate the highest and lowest revenue?
-3. How does revenue vary across product categories?
-4. How does payment method usage vary across customers?
-5. Which regions generate the highest revenue?
-6. Which product categories have the highest average ratings?
-7. Which products have the highest review counts and average ratings?
-8. Which product categories have high discounts but low quantity sold?
-9. Which regions prefer different payment methods?
-10. Which product categories sell the highest quantity?
-11. Which product categories combine strong ratings and review activity?
-12. How large is the difference between actual price and discounted price across product categories?
+The raw datasets were cleaned and preprocessed using Python, followed by exploratory data analysis and Power BI data modeling.
 
-## Key Findings
+**Key areas analyzed:**
 
-- Total revenue was **32.87M**, with the New Year period generating the highest revenue.
-- Beauty achieved the highest quantity sold and showed consistent revenue performance.
-- Sports had the highest average discount percentage but comparatively low quantity sold.
-- Electronics achieved comparatively high sales volume while having the lowest average discount among the categories.
-- Middle East and North America generated the highest revenue among the analyzed regions.
-- Payment preferences differed across regions, providing useful context for customer targeting and payment strategy.
-- The analysis also revealed differences between product categories in customer ratings and review activity.
+- Sales and order trends
+- Revenue growth
+- Customer segments
+- Customer value and order frequency
+- High demand areas
+- Delivery performance
+- Customer satisfaction and sentiment
+- Product profitability
+- Inventory performance
+- Damaged and received stock
+- Product shelf life
+- Marketing campaign performance
+- Campaign spend, revenue, clicks, impressions, and conversions
 
-## Tools and Skills
+**Business focus:**
 
-**Python | Pandas | Power BI | Data Cleaning | Exploratory Data Analysis | Data Visualization | Data Storytelling | Business Analysis**
+The project focuses on understanding sales performance, customer behavior, operational efficiency, inventory management, and marketing effectiveness.
+
+---
+
+### 3. Zomato Restaurant Data Analysis
+
+**Tools:** Python, SQL, Power BI, Excel
+
+An end to end Zomato restaurant analysis focused on understanding restaurant competition, customer demand, restaurant ratings, pricing, cuisines, and service adoption.
+
+Python was used for data cleaning and preprocessing, while SQL and Power BI were used for analysis, KPI development, comparisons, and interactive business visualizations.
+
+**Key areas analyzed:**
+
+- Restaurant competition by location
+- Customer demand and rating volume
+- Restaurant type performance
+- Cuisine performance
+- Customer satisfaction
+- Pricing and affordability
+- Online ordering adoption
+- Table booking adoption
+- Customer service preferences
+- Restaurant level KPI analysis
+- High demand cuisines
+- Market opportunities
+
+**Business focus:**
+
+The analysis focuses on understanding the restaurant market and identifying insights that can support decisions around market expansion, restaurant positioning, pricing, customer demand, and service adoption.
+
+## Skills Demonstrated
+
+### Data Analysis
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Business Analysis
+- Data Storytelling
+- Statistical Analysis
+- Customer Analysis
+- Sales Analysis
+- Performance Analysis
+
+### Technical Skills
+
+- Python
+- Pandas
+- SQL
+- Power BI
+- Excel
+- Data Visualization
+- Power BI Data Modeling
+- KPI Development
+- Interactive Dashboards
+
+## Project Workflow
+
+I generally follow a structured data analysis workflow across my projects:
+
+```text
+Raw Data
+    ↓
+Data Understanding
+    ↓
+Data Cleaning and Preprocessing
+    ↓
+Exploratory Data Analysis
+    ↓
+Business Questions
+    ↓
+Data Analysis
+    ↓
+Power BI Data Modeling
+    ↓
+KPI Development
+    ↓
+Interactive Visualization
+    ↓
+Business Insights
+    ↓
+Data Driven Decision Support
